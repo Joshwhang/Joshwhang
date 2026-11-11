@@ -9,7 +9,7 @@ I use Claude Code to build small tools that take repetitive work off my plate. M
 **[Yardi-Automation](https://github.com/Joshwhang/Yardi-Automation)**
 During my real estate internship at Jamison Services in Summer 2026, I built a Claude Code project to automate accounting processes. This repo is the prototype for one of them: it consolidates per-building management fee files into a single file ready for Yardi Voyager's import feature, and flags anything unmatched, invalid, or duplicated for manual review. It runs from a button in an Excel control workbook and calls a Python engine with a test suite. The repo uses recreated sample data only.
 
-**Outreach (private)**
+**[outreach](https://github.com/Joshwhang/outreach)**
 A Python command-line tool I use for finance networking. It ranks contacts at IB, AM, and WM firms (Claremont alumni first), guesses work emails from each firm's address pattern, uses Claude to draft a short personalized email from my resume, pushes the drafts to Gmail, and tracks everything in Excel. Nothing is sent automatically. I read and send every email myself.
 
 ### Experience
